@@ -1,6 +1,8 @@
 # Introduction  
 
-Gemini Chatbot demonstrate how to quickly build and deploy a chatbot powered with Gemini.  
+Gemini Vision Chatbot demonstrate how to quickly build and deploy a chatbot powered with Gemini.  
+
+This chatbot allows you to load an image and instruct `Gemini 2.0 Flash Experiemntal` (`Image Generation`) model to modify it.
 
 The user interface is developed using Streamlit.  
 
